@@ -1,0 +1,9 @@
+.Tilt {
+    background: rgb(34,220,235);
+background: linear-gradient(90deg, rgba(34,220,235,1) 0%, rgba(156,91,235,1) 51%, rgba(0,198,255,1) 100%);
+}
+
+.brainLogo {
+    margin-top: 20px;
+    height: 100px;
+}
